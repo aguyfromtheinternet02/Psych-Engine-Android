@@ -1,0 +1,89 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        0,
+        -72
+      ],
+      "loop": false,
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "CORE DOWN",
+      "indices": []
+    },
+    {
+      "offsets": [
+        -6,
+        102
+      ],
+      "loop": false,
+      "anim": "singUP",
+      "fps": 24,
+      "name": "CORE UP",
+      "indices": []
+    },
+    {
+      "offsets": [
+        -10,
+        6
+      ],
+      "loop": false,
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "CORE RIGHT",
+      "indices": []
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "idle",
+      "fps": 24,
+      "name": "CORE IDLE",
+      "indices": []
+    },
+    {
+      "offsets": [
+        17,
+        18
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "CORE LEFT"
+    },
+    {
+      "offsets": [
+        480,
+        551
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "ucn",
+      "indices": [],
+      "name": "CORE UCN"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/CORE_M",
+  "position": [
+    0,
+    0
+  ],
+  "healthicon": "core",
+  "flip_x": false,
+  "healthbar_colors": [
+    0,
+    122,
+    206
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 6.1,
+  "scale": 1
+}

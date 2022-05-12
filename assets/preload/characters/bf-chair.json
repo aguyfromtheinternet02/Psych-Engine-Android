@@ -1,0 +1,155 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        -5,
+        0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "BF idle dance"
+    },
+    {
+      "offsets": [
+        -23,
+        -15
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "BF NOTE LEFT0"
+    },
+    {
+      "offsets": [
+        -10,
+        -80
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "BF NOTE DOWN0"
+    },
+    {
+      "offsets": [
+        -71,
+        50
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "BF NOTE UP0"
+    },
+    {
+      "offsets": [
+        -75,
+        0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "BF NOTE RIGHT0"
+    },
+    {
+      "offsets": [
+        -28,
+        -15
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFTmiss",
+      "indices": [],
+      "name": "BF NOTE LEFT MISS"
+    },
+    {
+      "offsets": [
+        -15,
+        -77
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWNmiss",
+      "indices": [],
+      "name": "BF NOTE DOWN MISS"
+    },
+    {
+      "offsets": [
+        -66,
+        49
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUPmiss",
+      "indices": [],
+      "name": "BF NOTE UP MISS"
+    },
+    {
+      "offsets": [
+        -66,
+        0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHTmiss",
+      "indices": [],
+      "name": "BF NOTE RIGHT MISS"
+    },
+    {
+      "offsets": [
+        -2,
+        -3
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "firstDeath",
+      "indices": [],
+      "name": "BF dies"
+    },
+    {
+      "offsets": [
+        -2,
+        -4
+      ],
+      "loop": true,
+      "fps": 24,
+      "anim": "deathLoop",
+      "indices": [],
+      "name": "BF Dead Loop"
+    },
+    {
+      "offsets": [
+        -4,
+        -4
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "deathConfirm",
+      "indices": [],
+      "name": "BF Dead confirm"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/PITROZITO_CHAIR",
+  "position": [
+    0,
+    30
+  ],
+  "healthicon": "pitron",
+  "flip_x": true,
+  "healthbar_colors": [
+    255,
+    0,
+    0
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4,
+  "scale": 1
+}

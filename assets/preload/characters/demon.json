@@ -1,0 +1,78 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        17,
+        17
+      ],
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "SUPER SONIC GAMER BR LEFT"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        -72
+      ],
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "SUPER SONIC GAMER BR DOWN"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -6,
+        102
+      ],
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "SUPER SONIC GAMER BR UP"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -10,
+        6
+      ],
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "SUPER SONIC GAMER BR RIGHT"
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "idle",
+      "loop": true,
+      "name": "SUPER SONIC GAMER BR IDLE"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/DEMON",
+  "position": [
+    0,
+    0
+  ],
+  "healthicon": "demon",
+  "flip_x": false,
+  "healthbar_colors": [
+    255,
+    0,
+    255
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 6.1,
+  "scale": 0.9
+}
