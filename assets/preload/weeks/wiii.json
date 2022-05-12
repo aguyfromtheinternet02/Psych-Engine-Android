@@ -1,0 +1,49 @@
+{
+  "songs": [
+    [
+      "Core",
+      "core",
+      [
+        255,
+        255,
+        255
+      ]
+    ],
+    [
+      "Punchtune",
+      "core",
+      [
+        255,
+        255,
+        255
+      ]
+    ],
+    [
+      "Hardcore",
+      "core",
+      [
+        255,
+        255,
+        255
+      ]
+    ]
+  ],
+  "hideFreeplay": false,
+  "weekBackground": "",
+  "difficulties": "Hard, Normal",
+  "weekCharacters": [
+    "",
+    "core",
+    ""
+  ],
+  "storyName": "Pitro vs Core",
+  "weekName": "Cory kek",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "hideStoryMode": false,
+  "weekBefore": "tutorial",
+  "startUnlocked": true
+}

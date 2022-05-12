@@ -1,0 +1,40 @@
+{
+  "songs": [
+    [
+      "Hater",
+      "sonic",
+      [
+        255,
+        255,
+        255
+      ]
+    ],
+    [
+      "From-Hell",
+      "demon",
+      [
+        255,
+        255,
+        255
+      ]
+    ]
+  ],
+  "hideFreeplay": false,
+  "weekBackground": "",
+  "difficulties": "",
+  "weekCharacters": [
+    "",
+    "hater",
+    ""
+  ],
+  "storyName": "pitro vs hater",
+  "weekName": "stop posting fnf",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "hideStoryMode": false,
+  "weekBefore": "tutorial",
+  "startUnlocked": true
+}
